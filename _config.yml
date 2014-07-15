@@ -1,9 +1,9 @@
 # Site settings
 title: Piqora
 email: hello@piqora.com
+baseurl: ""
 url: "http://piqmarketing.github.io"
 
 # Build settings
+markdown: kramdown
 permalink: pretty
-exclude: ["README.md"]
-encoding: UTF-8
