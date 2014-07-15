@@ -1,0 +1,20 @@
+@import "base/_mixins.scss";
+
+@import "base/_reset.scss";
+@import "base/_variables.scss";
+@import "base/_global.scss";
+
+@import "partials/_header.scss";
+@import "partials/_forms.scss";
+@import "partials/_features.scss";
+@import "partials/_footer.scss";
+
+
+@import "pages/_homepage.scss";
+@import "pages/_product.scss";
+@import "pages/_resources.scss";
+@import "pages/_demo.scss";
+@import "pages/_why-piqora.scss";
+@import "pages/_our-customers.scss";
+@import "pages/_press.scss";
+@import "pages/_team.scss";

@@ -1,0 +1,129 @@
+.simple-banner {
+	background-color: $colorContentAlternate;
+
+	h2 {
+		font-size: 32px;
+		margin-bottom: 0;
+	}
+
+	&.resources {
+		background: url(../img/banner-bg-resources.png) no-repeat right bottom;
+        background-size: 100%;
+	}
+
+}
+
+.filter-nav {
+    @include outerContainer;
+    background:$colorContentHighlight;
+    border-top: 1px solid rgba(0,0,0,.2);
+    box-shadow: inset 0 0 4px rgba(0,0,0,0.1);
+
+    .container {
+        padding: 30px 0 50px 0;
+    }
+
+    h3 {
+    	float: left;
+    	font-size: 12px;
+    	letter-spacing: 0;
+		margin-right: 10px;
+    	text-transform: uppercase;
+    }
+
+    .type-filter li {
+    	float: left;
+    	font-size: 13px;
+
+    	a {
+    		background: #fff;
+    		border-radius: 30px;
+    		color: #85acb6;
+    		margin-right: 5px;
+    		padding: 1px 5px;
+    	}
+    }
+
+    .network-filter li {
+    	float: left;
+    	margin: -10px 10px 0 0;
+
+    	a {
+		   	background: #85acb6;
+    		border-radius: 3px;
+    		color: #fff;
+            display: block;
+    		padding: 10px 15px 10px 5px;
+
+    		img {
+                float: left;
+    		}
+
+    		em {
+		        -webkit-font-smoothing: antialiased;
+                font-size: 12px;
+    			font-weight: 700;
+    			text-transform: uppercase;
+    		}
+    	}
+    }
+}
+
+.resources-list {
+    @include columnLayout(3,1.875em,auto);
+
+    li {
+        @include columnBreak(avoid);
+        @include borderRadius(5px);
+        -webkit-font-smoothing: antialiased;
+        background: $colorContentAlternate;
+        border: 1px solid darken($colorContentAlternate,10%);
+        margin-bottom: 30px;
+        padding: 30px;
+    }
+
+    .resource-type {
+        @include clear;
+        border-bottom: 1px solid rgba(0,0,0,.15);
+        display: block;
+        font: {
+            size: 13px;
+            weight: 700;
+        }
+        margin-bottom: 20px;
+        padding: 5px 0 15px 0;
+
+        img {
+            @include borderRadius(100%);
+            background: #D0D1CC;
+            float: left;
+            margin: -2px 3px 0 0;
+            padding: 3px;
+            width: 20px;
+        }
+    }
+
+    p {
+        font-family: $fontSans;
+
+        img {
+            @include imageFrame;
+            float: left;
+            margin: 7px 20px 10px 0;
+            width: 90px;
+        }
+    }
+
+    a {
+        @include clear;
+        @include mainCta;
+        display: block;
+        margin-top: 30px;
+    
+        img {
+            @include borderRadius(100%);
+            float: right;
+            width: 20px;
+        }
+    }
+}
