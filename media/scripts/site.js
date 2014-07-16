@@ -4,6 +4,8 @@ $(function(){
 
     var offset;
     var $header = $('header');
+    var $filterLink = $('.filter-nav a');
+    var $resourcesList = $('.resources-list');
 
     $(window).on('scroll', function(){
 
@@ -21,6 +23,27 @@ $(function(){
 
             }
 
+        }
+
+    });
+
+    $filterLink.on('click', function(e){
+
+        var $this = $(this);
+
+        e.preventDefault();
+
+        var filter = $this.data('filter');
+
+        if ( !$resourcesList.hasClass(filter) ) {
+
+            $resourcesList.addClass(filter);
+            $this.addClass('on');
+
+        } else {
+
+            $resourcesList.removeClass(filter);
+            $this.removeClass('on');
         }
 
     });

@@ -1,1 +1,1 @@
-$(function(){var e,t=$("header");$(window).on("scroll",function(){e=$(window).scrollTop();e>105?t.addClass("sticky"):t.hasClass("sticky")&&t.removeClass("sticky")})});
+$(function(){var e,t=$("header"),n=$(".filter-nav a"),r=$(".resources-list");$(window).on("scroll",function(){e=$(window).scrollTop();e>105?t.addClass("sticky"):t.hasClass("sticky")&&t.removeClass("sticky")});n.on("click",function(e){var t=$(this);e.preventDefault();var n=t.data("filter");if(!r.hasClass(n)){r.addClass(n);t.addClass("on")}else{r.removeClass(n);t.removeClass("on")}})});
