@@ -120,16 +120,16 @@
       "initialSize" : 1067,
       "fileType" : 8192
     },
-    "\/media\/img\/press-logo-forbes.png" : {
+    "\/media\/img\/feature-overview-tumblr-analytics.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/media\/img\/press-logo-forbes.png",
+      "inputAbbreviatedPath" : "\/media\/img\/feature-overview-tumblr-analytics.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/media\/img\/press-logo-forbes.png",
-      "initialSize" : 2980,
-      "fileType" : 8192
+      "outputAbbreviatedPath" : "\/media\/img\/feature-overview-tumblr-analytics.jpg",
+      "initialSize" : 96604,
+      "fileType" : 4096
     },
     "\/_site\/media\/img\/resources\/blue-nile.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -164,17 +164,6 @@
       "initialSize" : 25919,
       "fileType" : 4096
     },
-    "\/_site\/media\/img\/promotions-uniqlo.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/media\/img\/promotions-uniqlo.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/media\/img\/promotions-uniqlo.png",
-      "initialSize" : 34035,
-      "fileType" : 8192
-    },
     "\/media\/img\/press-logo-financial-times.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -184,39 +173,6 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/media\/img\/press-logo-financial-times.png",
       "initialSize" : 6621,
-      "fileType" : 8192
-    },
-    "\/_site\/media\/img\/team-photos\/kimberly.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/media\/img\/team-photos\/kimberly.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/media\/img\/team-photos\/kimberly.jpg",
-      "initialSize" : 30741,
-      "fileType" : 4096
-    },
-    "\/media\/img\/feature-overview-tumblr-analytics.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/media\/img\/feature-overview-tumblr-analytics.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/media\/img\/feature-overview-tumblr-analytics.jpg",
-      "initialSize" : 96604,
-      "fileType" : 4096
-    },
-    "\/_site\/media\/img\/customer-logo-etsy-alt.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/media\/img\/customer-logo-etsy-alt.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/media\/img\/customer-logo-etsy-alt.png",
-      "initialSize" : 3148,
       "fileType" : 8192
     },
     "\/_site\/media\/img\/press-logo-business-insider.png" : {
@@ -230,6 +186,50 @@
       "initialSize" : 6213,
       "fileType" : 8192
     },
+    "\/_site\/media\/img\/team-photos\/kimberly.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/media\/img\/team-photos\/kimberly.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/media\/img\/team-photos\/kimberly.jpg",
+      "initialSize" : 30741,
+      "fileType" : 4096
+    },
+    "\/media\/img\/press-logo-forbes.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/media\/img\/press-logo-forbes.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/media\/img\/press-logo-forbes.png",
+      "initialSize" : 2980,
+      "fileType" : 8192
+    },
+    "\/_site\/media\/img\/customer-logo-etsy-alt.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/media\/img\/customer-logo-etsy-alt.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/media\/img\/customer-logo-etsy-alt.png",
+      "initialSize" : 3148,
+      "fileType" : 8192
+    },
+    "\/_site\/media\/img\/promotions-uniqlo.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/media\/img\/promotions-uniqlo.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/media\/img\/promotions-uniqlo.png",
+      "initialSize" : 34035,
+      "fileType" : 8192
+    },
     "\/_site\/media\/img\/favicon.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -240,6 +240,15 @@
       "outputAbbreviatedPath" : "\/_site\/media\/img\/favicon.png",
       "initialSize" : 790,
       "fileType" : 8192
+    },
+    "\/_site\/resources\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/resources\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/media\/img\/team-photos\/alyssa.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -252,15 +261,15 @@
       "initialSize" : 27892,
       "fileType" : 4096
     },
-    "\/_site\/media\/img\/case-study-shape.jpg" : {
+    "\/_site\/media\/img\/banner-bg-tumblr.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/media\/img\/case-study-shape.jpg",
+      "inputAbbreviatedPath" : "\/_site\/media\/img\/banner-bg-tumblr.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/media\/img\/case-study-shape.jpg",
-      "initialSize" : 16586,
+      "outputAbbreviatedPath" : "\/_site\/media\/img\/banner-bg-tumblr.jpg",
+      "initialSize" : 279253,
       "fileType" : 4096
     },
     "\/_site\/media\/img\/feature-instagram-retailers.jpg" : {
@@ -272,17 +281,6 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/_site\/media\/img\/feature-instagram-retailers.jpg",
       "initialSize" : 119013,
-      "fileType" : 4096
-    },
-    "\/_site\/media\/img\/banner-bg-tumblr.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/media\/img\/banner-bg-tumblr.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/media\/img\/banner-bg-tumblr.jpg",
-      "initialSize" : 279253,
       "fileType" : 4096
     },
     "\/_site\/media\/img\/icon-network-instagram.png" : {
@@ -307,15 +305,26 @@
       "initialSize" : 29654,
       "fileType" : 4096
     },
-    "\/media\/img\/team-photos\/jon.jpg" : {
+    "\/_site\/media\/img\/case-study-shape.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/media\/img\/team-photos\/jon.jpg",
+      "inputAbbreviatedPath" : "\/_site\/media\/img\/case-study-shape.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/media\/img\/team-photos\/jon.jpg",
-      "initialSize" : 26423,
+      "outputAbbreviatedPath" : "\/_site\/media\/img\/case-study-shape.jpg",
+      "initialSize" : 16586,
+      "fileType" : 4096
+    },
+    "\/media\/img\/team-photos\/prakhar.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/media\/img\/team-photos\/prakhar.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/media\/img\/team-photos\/prakhar.jpg",
+      "initialSize" : 24859,
       "fileType" : 4096
     },
     "\/_layouts\/page.html" : {
@@ -324,15 +333,6 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/_layouts\/page.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/_site\/resources\/index.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/resources\/index.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -347,15 +347,15 @@
       "initialSize" : 30207,
       "fileType" : 4096
     },
-    "\/media\/img\/team-photos\/prakhar.jpg" : {
+    "\/media\/img\/team-photos\/jon.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/media\/img\/team-photos\/prakhar.jpg",
+      "inputAbbreviatedPath" : "\/media\/img\/team-photos\/jon.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/media\/img\/team-photos\/prakhar.jpg",
-      "initialSize" : 24859,
+      "outputAbbreviatedPath" : "\/media\/img\/team-photos\/jon.jpg",
+      "initialSize" : 26423,
       "fileType" : 4096
     },
     "\/_site\/media\/img\/icon-conversions.png" : {
@@ -380,17 +380,6 @@
       "initialSize" : 9687,
       "fileType" : 4096
     },
-    "\/_site\/media\/img\/team-photos\/rachael.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/media\/img\/team-photos\/rachael.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/media\/img\/team-photos\/rachael.jpg",
-      "initialSize" : 28195,
-      "fileType" : 4096
-    },
     "\/_site\/media\/img\/feature-image-analytics.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -400,6 +389,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/_site\/media\/img\/feature-image-analytics.jpg",
       "initialSize" : 106517,
+      "fileType" : 4096
+    },
+    "\/_site\/media\/img\/team-photos\/rachael.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/media\/img\/team-photos\/rachael.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/media\/img\/team-photos\/rachael.jpg",
+      "initialSize" : 28195,
       "fileType" : 4096
     },
     "\/_site\/media\/img\/customer-logo-urban-decay.jpg" : {
@@ -535,15 +535,15 @@
       "initialSize" : 655673,
       "fileType" : 8192
     },
-    "\/_site\/media\/img\/customer-logo-zappos.png" : {
+    "\/media\/img\/customer-logo-ugg.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/media\/img\/customer-logo-zappos.png",
+      "inputAbbreviatedPath" : "\/media\/img\/customer-logo-ugg.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/media\/img\/customer-logo-zappos.png",
-      "initialSize" : 7333,
+      "outputAbbreviatedPath" : "\/media\/img\/customer-logo-ugg.png",
+      "initialSize" : 4814,
       "fileType" : 8192
     },
     "\/_site\/jekyll\/update\/2014\/07\/14\/welcome-to-jekyll\/index.html" : {
@@ -555,15 +555,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/media\/img\/customer-logo-ugg.png" : {
+    "\/_site\/media\/img\/customer-logo-zappos.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/media\/img\/customer-logo-ugg.png",
+      "inputAbbreviatedPath" : "\/_site\/media\/img\/customer-logo-zappos.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/media\/img\/customer-logo-ugg.png",
-      "initialSize" : 4814,
+      "outputAbbreviatedPath" : "\/_site\/media\/img\/customer-logo-zappos.png",
+      "initialSize" : 7333,
       "fileType" : 8192
     },
     "\/media\/stylesheets\/sass\/pages\/_press.scss" : {
@@ -589,17 +589,6 @@
       "initialSize" : 24782,
       "fileType" : 4096
     },
-    "\/_site\/media\/img\/feature-image-influencers.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/media\/img\/feature-image-influencers.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/media\/img\/feature-image-influencers.jpg",
-      "initialSize" : 48660,
-      "fileType" : 4096
-    },
     "\/team.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -608,17 +597,6 @@
       "inputAbbreviatedPath" : "\/team.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
-    },
-    "\/_site\/media\/img\/feature-overview-pinterest-audience.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/media\/img\/feature-overview-pinterest-audience.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/media\/img\/feature-overview-pinterest-audience.jpg",
-      "initialSize" : 44696,
-      "fileType" : 4096
     },
     "\/media\/img\/customer-logo-hautelook.png" : {
       "ignoreWasSetByUser" : 0,
@@ -631,26 +609,15 @@
       "initialSize" : 3906,
       "fileType" : 8192
     },
-    "\/_site\/media\/img\/press-logo-fortune.png" : {
+    "\/_site\/media\/img\/feature-overview-pinterest-audience.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/media\/img\/press-logo-fortune.png",
+      "inputAbbreviatedPath" : "\/_site\/media\/img\/feature-overview-pinterest-audience.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/media\/img\/press-logo-fortune.png",
-      "initialSize" : 3217,
-      "fileType" : 8192
-    },
-    "\/media\/img\/feature-overview-pinterest-analytics.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/media\/img\/feature-overview-pinterest-analytics.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/media\/img\/feature-overview-pinterest-analytics.jpg",
-      "initialSize" : 43340,
+      "outputAbbreviatedPath" : "\/_site\/media\/img\/feature-overview-pinterest-audience.jpg",
+      "initialSize" : 44696,
       "fileType" : 4096
     },
     "\/_site\/media\/img\/bg-our-team.png" : {
@@ -664,6 +631,39 @@
       "initialSize" : 438498,
       "fileType" : 8192
     },
+    "\/media\/img\/feature-overview-pinterest-analytics.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/media\/img\/feature-overview-pinterest-analytics.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/media\/img\/feature-overview-pinterest-analytics.jpg",
+      "initialSize" : 43340,
+      "fileType" : 4096
+    },
+    "\/_site\/media\/img\/resources\/marketers-guide.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/media\/img\/resources\/marketers-guide.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/media\/img\/resources\/marketers-guide.jpg",
+      "initialSize" : 19700,
+      "fileType" : 4096
+    },
+    "\/_site\/media\/img\/press-logo-fortune.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/media\/img\/press-logo-fortune.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/media\/img\/press-logo-fortune.png",
+      "initialSize" : 3217,
+      "fileType" : 8192
+    },
     "\/media\/img\/team-photos\/andrew.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -675,27 +675,28 @@
       "initialSize" : 25887,
       "fileType" : 4096
     },
-    "\/_site\/media\/img\/video-thumbnail.jpg" : {
+    "\/media\/img\/resources\/optimize-website.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/media\/img\/video-thumbnail.jpg",
+      "inputAbbreviatedPath" : "\/media\/img\/resources\/optimize-website.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/media\/img\/video-thumbnail.jpg",
-      "initialSize" : 21589,
+      "outputAbbreviatedPath" : "\/media\/img\/resources\/optimize-website.jpg",
+      "initialSize" : 12282,
       "fileType" : 4096
     },
-    "\/_site\/media\/img\/bg-tour-form.jpg" : {
+    "\/media\/stylesheets\/sass\/partials\/_features.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/media\/img\/bg-tour-form.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/media\/img\/bg-tour-form.jpg",
-      "initialSize" : 82822,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/media\/stylesheets\/sass\/partials\/_features.scss",
+      "outputStyle" : 3,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/media\/stylesheets\/css\/partials\/_features.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/media\/stylesheets\/sass\/pages\/_why-piqora.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -720,15 +721,48 @@
       "initialSize" : 42679,
       "fileType" : 4096
     },
-    "\/_site\/media\/img\/resources\/marketers-guide.jpg" : {
+    "\/media\/img\/banner-bg-press.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/media\/img\/resources\/marketers-guide.jpg",
+      "inputAbbreviatedPath" : "\/media\/img\/banner-bg-press.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/media\/img\/resources\/marketers-guide.jpg",
-      "initialSize" : 19700,
+      "outputAbbreviatedPath" : "\/media\/img\/banner-bg-press.png",
+      "initialSize" : 408972,
+      "fileType" : 8192
+    },
+    "\/_site\/media\/img\/bg-tour-form.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/media\/img\/bg-tour-form.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/media\/img\/bg-tour-form.jpg",
+      "initialSize" : 82822,
+      "fileType" : 4096
+    },
+    "\/_site\/media\/img\/feature-image-influencers.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/media\/img\/feature-image-influencers.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/media\/img\/feature-image-influencers.jpg",
+      "initialSize" : 48660,
+      "fileType" : 4096
+    },
+    "\/_site\/media\/img\/video-thumbnail.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/media\/img\/video-thumbnail.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/media\/img\/video-thumbnail.jpg",
+      "initialSize" : 21589,
       "fileType" : 4096
     },
     "\/_site\/media\/img\/banner-bg-demo.jpg" : {
@@ -741,40 +775,6 @@
       "outputAbbreviatedPath" : "\/_site\/media\/img\/banner-bg-demo.jpg",
       "initialSize" : 197572,
       "fileType" : 4096
-    },
-    "\/media\/img\/banner-bg-press.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/media\/img\/banner-bg-press.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/media\/img\/banner-bg-press.png",
-      "initialSize" : 408972,
-      "fileType" : 8192
-    },
-    "\/media\/img\/resources\/optimize-website.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/media\/img\/resources\/optimize-website.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/media\/img\/resources\/optimize-website.jpg",
-      "initialSize" : 12282,
-      "fileType" : 4096
-    },
-    "\/media\/stylesheets\/sass\/partials\/_features.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/media\/stylesheets\/sass\/partials\/_features.scss",
-      "outputStyle" : 3,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/media\/stylesheets\/css\/partials\/_features.css",
-      "fileType" : 4,
-      "debugStyle" : 0
     },
     "\/media\/img\/feature-image-revenue.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -832,6 +832,17 @@
       "initialSize" : 64655,
       "fileType" : 4096
     },
+    "\/_site\/media\/img\/resources\/quantitative-study.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/media\/img\/resources\/quantitative-study.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/media\/img\/resources\/quantitative-study.jpg",
+      "initialSize" : 12252,
+      "fileType" : 4096
+    },
     "\/get-a-demo.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -850,17 +861,6 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/media\/img\/customer-photo-roberta.jpg",
       "initialSize" : 9687,
-      "fileType" : 4096
-    },
-    "\/_site\/media\/img\/resources\/quantitative-study.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/media\/img\/resources\/quantitative-study.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/media\/img\/resources\/quantitative-study.jpg",
-      "initialSize" : 12252,
       "fileType" : 4096
     },
     "\/media\/img\/feature-image-analytics.jpg" : {
@@ -907,6 +907,17 @@
       "initialSize" : 3932,
       "fileType" : 8192
     },
+    "\/_site\/media\/img\/feature-pinterest-step-two.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/media\/img\/feature-pinterest-step-two.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/media\/img\/feature-pinterest-step-two.jpg",
+      "initialSize" : 69955,
+      "fileType" : 4096
+    },
     "\/_site\/media\/img\/customer-logo-amc.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -918,16 +929,16 @@
       "initialSize" : 4287,
       "fileType" : 8192
     },
-    "\/_site\/media\/img\/resources\/secrets-promotion.jpg" : {
+    "\/_site\/media\/img\/feature-overview-pinterest-promotions-detail.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/media\/img\/resources\/secrets-promotion.jpg",
+      "inputAbbreviatedPath" : "\/_site\/media\/img\/feature-overview-pinterest-promotions-detail.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/media\/img\/resources\/secrets-promotion.jpg",
-      "initialSize" : 13376,
-      "fileType" : 4096
+      "outputAbbreviatedPath" : "\/_site\/media\/img\/feature-overview-pinterest-promotions-detail.png",
+      "initialSize" : 249311,
+      "fileType" : 8192
     },
     "\/media\/stylesheets\/sass\/main.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -941,6 +952,17 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/_site\/media\/img\/resources\/secrets-promotion.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/media\/img\/resources\/secrets-promotion.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/media\/img\/resources\/secrets-promotion.jpg",
+      "initialSize" : 13376,
+      "fileType" : 4096
+    },
     "\/media\/img\/feature-pinterest-step-two.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -950,28 +972,6 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/media\/img\/feature-pinterest-step-two.png",
       "initialSize" : 48002,
-      "fileType" : 8192
-    },
-    "\/_site\/media\/img\/feature-pinterest-step-two.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/media\/img\/feature-pinterest-step-two.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/media\/img\/feature-pinterest-step-two.jpg",
-      "initialSize" : 69955,
-      "fileType" : 4096
-    },
-    "\/_site\/media\/img\/feature-overview-pinterest-promotions-detail.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/media\/img\/feature-overview-pinterest-promotions-detail.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/media\/img\/feature-overview-pinterest-promotions-detail.png",
-      "initialSize" : 249311,
       "fileType" : 8192
     },
     "\/media\/img\/banner-bg-pinterest.jpg" : {
@@ -984,6 +984,17 @@
       "outputAbbreviatedPath" : "\/media\/img\/banner-bg-pinterest.jpg",
       "initialSize" : 255492,
       "fileType" : 4096
+    },
+    "\/media\/scripts\/site-ck.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/media\/scripts\/site-ck.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/media\/scripts\/site-ck-ck.js",
+      "fileType" : 64
     },
     "\/_site\/media\/img\/feature-image-revenue.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1030,16 +1041,14 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/_site\/media\/img\/resources\/cathay-pacific.jpg" : {
+    "\/_site\/about-us\/team\/index.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/media\/img\/resources\/cathay-pacific.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/media\/img\/resources\/cathay-pacific.jpg",
-      "initialSize" : 15031,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/_site\/about-us\/team\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/media\/img\/team-photos\/rachael.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1050,6 +1059,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/media\/img\/team-photos\/rachael.jpg",
       "initialSize" : 28195,
+      "fileType" : 4096
+    },
+    "\/_site\/media\/img\/resources\/cathay-pacific.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/media\/img\/resources\/cathay-pacific.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/media\/img\/resources\/cathay-pacific.jpg",
+      "initialSize" : 15031,
       "fileType" : 4096
     },
     "\/media\/img\/feature-pinterest-step-one.jpg" : {
@@ -1063,17 +1083,6 @@
       "initialSize" : 139015,
       "fileType" : 4096
     },
-    "\/_site\/media\/img\/customer-logo-uniqlo.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/media\/img\/customer-logo-uniqlo.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/media\/img\/customer-logo-uniqlo.png",
-      "initialSize" : 7577,
-      "fileType" : 8192
-    },
     "\/_site\/media\/img\/culture-photo2.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1085,14 +1094,16 @@
       "initialSize" : 49647,
       "fileType" : 4096
     },
-    "\/_site\/about-us\/team\/index.html" : {
+    "\/_site\/media\/img\/customer-logo-uniqlo.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/about-us\/team\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/_site\/media\/img\/customer-logo-uniqlo.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/media\/img\/customer-logo-uniqlo.png",
+      "initialSize" : 7577,
+      "fileType" : 8192
     },
     "\/media\/stylesheets\/sass\/partials\/_footer.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -1105,6 +1116,15 @@
       "outputAbbreviatedPath" : "\/media\/stylesheets\/css\/partials\/_footer.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/media\/stylesheets\/sass\/main.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/media\/stylesheets\/sass\/main.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/_site\/media\/img\/team-photos\/wes.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1183,16 +1203,14 @@
       "initialSize" : 25943,
       "fileType" : 4096
     },
-    "\/media\/img\/team-photos\/marcus.jpg" : {
+    "\/resources.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/media\/img\/team-photos\/marcus.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/media\/img\/team-photos\/marcus.jpg",
-      "initialSize" : 27352,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/resources.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/media\/img\/team-photos\/naveen.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1238,14 +1256,16 @@
       "initialSize" : 29654,
       "fileType" : 4096
     },
-    "\/resources.html" : {
+    "\/media\/img\/team-photos\/marcus.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/resources.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/media\/img\/team-photos\/marcus.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/media\/img\/team-photos\/marcus.jpg",
+      "initialSize" : 27352,
+      "fileType" : 4096
     },
     "\/media\/img\/case-study-shape.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1313,16 +1333,16 @@
       "initialSize" : 1060,
       "fileType" : 8192
     },
-    "\/media\/img\/resources\/social-roi.jpg" : {
+    "\/_site\/media\/scripts\/site.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/media\/img\/resources\/social-roi.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/media\/img\/resources\/social-roi.jpg",
-      "initialSize" : 10491,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/_site\/media\/scripts\/site.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/_site\/media\/scripts\/site-ck.js",
+      "fileType" : 64
     },
     "\/media\/img\/press-logo-fast-company.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1334,6 +1354,17 @@
       "outputAbbreviatedPath" : "\/media\/img\/press-logo-fast-company.png",
       "initialSize" : 5011,
       "fileType" : 8192
+    },
+    "\/media\/img\/resources\/social-roi.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/media\/img\/resources\/social-roi.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/media\/img\/resources\/social-roi.jpg",
+      "initialSize" : 10491,
+      "fileType" : 4096
     },
     "\/_site\/media\/img\/customer-logo-urban-decay.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1487,16 +1518,14 @@
       "initialSize" : 64669,
       "fileType" : 4096
     },
-    "\/_site\/media\/img\/logos-why-piqora.png" : {
+    "\/_includes\/footer.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/media\/img\/logos-why-piqora.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/media\/img\/logos-why-piqora.png",
-      "initialSize" : 20856,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/_includes\/footer.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/media\/img\/customer-logo-crate-and-barrel.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1509,15 +1538,6 @@
       "initialSize" : 3932,
       "fileType" : 8192
     },
-    "\/_includes\/footer.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_includes\/footer.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/media\/stylesheets\/sass\/base\/_variables.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -1529,6 +1549,17 @@
       "outputAbbreviatedPath" : "\/media\/stylesheets\/css\/base\/_variables.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/_site\/media\/img\/logos-why-piqora.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/media\/img\/logos-why-piqora.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/media\/img\/logos-why-piqora.png",
+      "initialSize" : 20856,
+      "fileType" : 8192
     },
     "\/_site\/media\/img\/bg-press-point-alt.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1574,27 +1605,27 @@
       "initialSize" : 10491,
       "fileType" : 4096
     },
-    "\/_site\/media\/img\/feature-image-influencers.png" : {
+    "\/media\/img\/customer-logo-gemvara.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/media\/img\/feature-image-influencers.png",
+      "inputAbbreviatedPath" : "\/media\/img\/customer-logo-gemvara.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/media\/img\/feature-image-influencers.png",
-      "initialSize" : 35731,
+      "outputAbbreviatedPath" : "\/media\/img\/customer-logo-gemvara.png",
+      "initialSize" : 3834,
       "fileType" : 8192
     },
-    "\/media\/img\/icon-social-google.png" : {
+    "\/media\/img\/feature-overview-instagram-promotions.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/media\/img\/icon-social-google.png",
+      "inputAbbreviatedPath" : "\/media\/img\/feature-overview-instagram-promotions.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/media\/img\/icon-social-google.png",
-      "initialSize" : 1323,
-      "fileType" : 8192
+      "outputAbbreviatedPath" : "\/media\/img\/feature-overview-instagram-promotions.jpg",
+      "initialSize" : 49755,
+      "fileType" : 4096
     },
     "\/_site\/media\/img\/press-logo-cnbc.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1618,26 +1649,15 @@
       "initialSize" : 538990,
       "fileType" : 8192
     },
-    "\/media\/img\/feature-overview-instagram-promotions.jpg" : {
+    "\/media\/img\/icon-social-google.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/media\/img\/feature-overview-instagram-promotions.jpg",
+      "inputAbbreviatedPath" : "\/media\/img\/icon-social-google.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/media\/img\/feature-overview-instagram-promotions.jpg",
-      "initialSize" : 49755,
-      "fileType" : 4096
-    },
-    "\/media\/img\/customer-logo-gemvara.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/media\/img\/customer-logo-gemvara.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/media\/img\/customer-logo-gemvara.png",
-      "initialSize" : 3834,
+      "outputAbbreviatedPath" : "\/media\/img\/icon-social-google.png",
+      "initialSize" : 1323,
       "fileType" : 8192
     },
     "\/media\/img\/resources\/instagram-hashtag.jpg" : {
@@ -1660,6 +1680,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/_site\/media\/img\/icon-conversations.png",
       "initialSize" : 1023,
+      "fileType" : 8192
+    },
+    "\/_site\/media\/img\/feature-image-influencers.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/media\/img\/feature-image-influencers.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/media\/img\/feature-image-influencers.png",
+      "initialSize" : 35731,
       "fileType" : 8192
     },
     "\/media\/img\/feature-instagram-conversions.jpg" : {
@@ -1695,17 +1726,6 @@
       "initialSize" : 25863,
       "fileType" : 4096
     },
-    "\/_site\/media\/img\/team-photos\/michael.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/media\/img\/team-photos\/michael.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/media\/img\/team-photos\/michael.jpg",
-      "initialSize" : 26162,
-      "fileType" : 4096
-    },
     "\/media\/img\/icon-network-tumblr.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1716,6 +1736,17 @@
       "outputAbbreviatedPath" : "\/media\/img\/icon-network-tumblr.png",
       "initialSize" : 1120,
       "fileType" : 8192
+    },
+    "\/_site\/media\/img\/team-photos\/michael.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/media\/img\/team-photos\/michael.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/media\/img\/team-photos\/michael.jpg",
+      "initialSize" : 26162,
+      "fileType" : 4096
     },
     "\/tumblr.html" : {
       "ignoreWasSetByUser" : 0,
@@ -1846,6 +1877,15 @@
       "outputAbbreviatedPath" : "\/media\/img\/feature-overview-pinterest-audience.png",
       "initialSize" : 127356,
       "fileType" : 8192
+    },
+    "\/_site\/media\/stylesheets\/sass\/main.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/media\/stylesheets\/sass\/main.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/media\/img\/video-thumbnail.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -2083,17 +2123,6 @@
       "initialSize" : 27772,
       "fileType" : 4096
     },
-    "\/_site\/media\/img\/culture-photo3.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/media\/img\/culture-photo3.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/media\/img\/culture-photo3.jpg",
-      "initialSize" : 57901,
-      "fileType" : 4096
-    },
     "\/media\/img\/feature-overview-pinterest-promotions-detail.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2105,15 +2134,15 @@
       "initialSize" : 249311,
       "fileType" : 8192
     },
-    "\/media\/img\/customer-logo-urban-decay.jpg" : {
+    "\/_site\/media\/img\/culture-photo3.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/media\/img\/customer-logo-urban-decay.jpg",
+      "inputAbbreviatedPath" : "\/_site\/media\/img\/culture-photo3.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/media\/img\/customer-logo-urban-decay.jpg",
-      "initialSize" : 11358,
+      "outputAbbreviatedPath" : "\/_site\/media\/img\/culture-photo3.jpg",
+      "initialSize" : 57901,
       "fileType" : 4096
     },
     "\/media\/img\/press-logo-fortune.png" : {
@@ -2126,6 +2155,17 @@
       "outputAbbreviatedPath" : "\/media\/img\/press-logo-fortune.png",
       "initialSize" : 3217,
       "fileType" : 8192
+    },
+    "\/media\/img\/customer-logo-urban-decay.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/media\/img\/customer-logo-urban-decay.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/media\/img\/customer-logo-urban-decay.jpg",
+      "initialSize" : 11358,
+      "fileType" : 4096
     },
     "\/media\/stylesheets\/sass\/pages\/_product.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -2194,6 +2234,17 @@
       "initialSize" : 1150,
       "fileType" : 8192
     },
+    "\/_site\/media\/img\/promotions-west-elm.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/media\/img\/promotions-west-elm.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/media\/img\/promotions-west-elm.png",
+      "initialSize" : 94433,
+      "fileType" : 8192
+    },
     "\/media\/img\/logos-why-piqora.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2216,16 +2267,16 @@
       "initialSize" : 6918,
       "fileType" : 8192
     },
-    "\/_site\/media\/img\/promotions-west-elm.png" : {
+    "\/_site\/media\/scripts\/site-ck.js" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/media\/img\/promotions-west-elm.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/media\/img\/promotions-west-elm.png",
-      "initialSize" : 94433,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/_site\/media\/scripts\/site-ck.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/_site\/media\/scripts\/site-ck-ck.js",
+      "fileType" : 64
     },
     "\/_site\/media\/img\/bg-frame-left.png" : {
       "ignoreWasSetByUser" : 0,
@@ -2249,15 +2300,15 @@
       "initialSize" : 63609,
       "fileType" : 4096
     },
-    "\/_site\/media\/img\/customer-logo-shape.png" : {
+    "\/media\/img\/press-logo-bloomberg.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/media\/img\/customer-logo-shape.png",
+      "inputAbbreviatedPath" : "\/media\/img\/press-logo-bloomberg.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/media\/img\/customer-logo-shape.png",
-      "initialSize" : 2320,
+      "outputAbbreviatedPath" : "\/media\/img\/press-logo-bloomberg.png",
+      "initialSize" : 4684,
       "fileType" : 8192
     },
     "\/_site\/products\/pinterest\/index.html" : {
@@ -2269,15 +2320,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/media\/img\/press-logo-bloomberg.png" : {
+    "\/_site\/media\/img\/customer-logo-shape.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/media\/img\/press-logo-bloomberg.png",
+      "inputAbbreviatedPath" : "\/_site\/media\/img\/customer-logo-shape.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/media\/img\/press-logo-bloomberg.png",
-      "initialSize" : 4684,
+      "outputAbbreviatedPath" : "\/_site\/media\/img\/customer-logo-shape.png",
+      "initialSize" : 2320,
       "fileType" : 8192
     },
     "\/_site\/media\/img\/team-photos\/nicole.jpg" : {
@@ -2408,26 +2459,6 @@
       "initialSize" : 119487,
       "fileType" : 4096
     },
-    "\/_site\/media\/img\/icon-network-tumblr.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/media\/img\/icon-network-tumblr.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/media\/img\/icon-network-tumblr.png",
-      "initialSize" : 1120,
-      "fileType" : 8192
-    },
-    "\/press.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/press.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/media\/img\/logo-piqora.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2439,6 +2470,15 @@
       "initialSize" : 4301,
       "fileType" : 8192
     },
+    "\/press.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/press.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/_site\/media\/img\/case-study-wayfair.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2449,6 +2489,17 @@
       "outputAbbreviatedPath" : "\/_site\/media\/img\/case-study-wayfair.jpg",
       "initialSize" : 15305,
       "fileType" : 4096
+    },
+    "\/_site\/media\/img\/icon-network-tumblr.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/media\/img\/icon-network-tumblr.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/media\/img\/icon-network-tumblr.png",
+      "initialSize" : 1120,
+      "fileType" : 8192
     },
     "\/media\/img\/bg-tour-form.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -2538,17 +2589,6 @@
       "initialSize" : 28658,
       "fileType" : 4096
     },
-    "\/_site\/media\/img\/press-logo-wsj.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/media\/img\/press-logo-wsj.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/media\/img\/press-logo-wsj.png",
-      "initialSize" : 7451,
-      "fileType" : 8192
-    },
     "\/media\/img\/customer-logo-z-gallerie.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2558,6 +2598,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/media\/img\/customer-logo-z-gallerie.png",
       "initialSize" : 3019,
+      "fileType" : 8192
+    },
+    "\/_site\/media\/img\/press-logo-wsj.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/media\/img\/press-logo-wsj.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/media\/img\/press-logo-wsj.png",
+      "initialSize" : 7451,
       "fileType" : 8192
     },
     "\/media\/img\/icon-restart.png" : {
@@ -2582,17 +2633,6 @@
       "initialSize" : 6918,
       "fileType" : 8192
     },
-    "\/_site\/media\/img\/promotions-oprah.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/media\/img\/promotions-oprah.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/media\/img\/promotions-oprah.png",
-      "initialSize" : 39197,
-      "fileType" : 8192
-    },
     "\/media\/img\/customer-logo-etsy-alt.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2602,6 +2642,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/media\/img\/customer-logo-etsy-alt.png",
       "initialSize" : 3148,
+      "fileType" : 8192
+    },
+    "\/_site\/media\/img\/promotions-oprah.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/media\/img\/promotions-oprah.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/media\/img\/promotions-oprah.png",
+      "initialSize" : 39197,
       "fileType" : 8192
     },
     "\/index.html" : {
@@ -2702,16 +2753,16 @@
       "initialSize" : 3506,
       "fileType" : 8192
     },
-    "\/_site\/media\/img\/triangle-tip-top.png" : {
+    "\/media\/img\/team-photos\/sandy.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/media\/img\/triangle-tip-top.png",
+      "inputAbbreviatedPath" : "\/media\/img\/team-photos\/sandy.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/media\/img\/triangle-tip-top.png",
-      "initialSize" : 1051,
-      "fileType" : 8192
+      "outputAbbreviatedPath" : "\/media\/img\/team-photos\/sandy.jpg",
+      "initialSize" : 28648,
+      "fileType" : 4096
     },
     "\/media\/img\/bg-press-point-alt.png" : {
       "ignoreWasSetByUser" : 0,
@@ -2724,16 +2775,16 @@
       "initialSize" : 1058,
       "fileType" : 8192
     },
-    "\/media\/img\/feature-instagram-step-one.jpg" : {
+    "\/_site\/media\/img\/triangle-tip-top.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/media\/img\/feature-instagram-step-one.jpg",
+      "inputAbbreviatedPath" : "\/_site\/media\/img\/triangle-tip-top.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/media\/img\/feature-instagram-step-one.jpg",
-      "initialSize" : 133536,
-      "fileType" : 4096
+      "outputAbbreviatedPath" : "\/_site\/media\/img\/triangle-tip-top.png",
+      "initialSize" : 1051,
+      "fileType" : 8192
     },
     "\/media\/stylesheets\/sass\/pages\/_our-customers.css" : {
       "ignoreWasSetByUser" : 0,
@@ -2744,15 +2795,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/media\/img\/team-photos\/sandy.jpg" : {
+    "\/media\/img\/feature-instagram-step-one.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/media\/img\/team-photos\/sandy.jpg",
+      "inputAbbreviatedPath" : "\/media\/img\/feature-instagram-step-one.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/media\/img\/team-photos\/sandy.jpg",
-      "initialSize" : 28648,
+      "outputAbbreviatedPath" : "\/media\/img\/feature-instagram-step-one.jpg",
+      "initialSize" : 133536,
       "fileType" : 4096
     },
     "\/_site\/media\/stylesheets\/sass\/main.scss" : {
@@ -2864,6 +2915,15 @@
       "initialSize" : 1676,
       "fileType" : 8192
     },
+    "\/pinterest.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/pinterest.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/_site\/media\/img\/team-photos\/andrew.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2896,15 +2956,6 @@
       "outputAbbreviatedPath" : "\/_site\/media\/img\/customer-photo-seth.jpg",
       "initialSize" : 8128,
       "fileType" : 4096
-    },
-    "\/pinterest.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/pinterest.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/_site\/media\/img\/banner-bg-team.png" : {
       "ignoreWasSetByUser" : 0,
@@ -3092,26 +3143,15 @@
       "initialSize" : 4751,
       "fileType" : 8192
     },
-    "\/media\/img\/banner-bg-resources.png" : {
+    "\/_site\/media\/img\/team-photos\/alyssa.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/media\/img\/banner-bg-resources.png",
+      "inputAbbreviatedPath" : "\/_site\/media\/img\/team-photos\/alyssa.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/media\/img\/banner-bg-resources.png",
-      "initialSize" : 406449,
-      "fileType" : 8192
-    },
-    "\/media\/img\/team-photos\/nicole.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/media\/img\/team-photos\/nicole.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/media\/img\/team-photos\/nicole.jpg",
-      "initialSize" : 30404,
+      "outputAbbreviatedPath" : "\/_site\/media\/img\/team-photos\/alyssa.jpg",
+      "initialSize" : 27892,
       "fileType" : 4096
     },
     "\/media\/img\/team-photos\/kimberly.jpg" : {
@@ -3125,16 +3165,27 @@
       "initialSize" : 30741,
       "fileType" : 4096
     },
-    "\/_site\/media\/img\/team-photos\/alyssa.jpg" : {
+    "\/media\/img\/team-photos\/nicole.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/media\/img\/team-photos\/alyssa.jpg",
+      "inputAbbreviatedPath" : "\/media\/img\/team-photos\/nicole.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/media\/img\/team-photos\/alyssa.jpg",
-      "initialSize" : 27892,
+      "outputAbbreviatedPath" : "\/media\/img\/team-photos\/nicole.jpg",
+      "initialSize" : 30404,
       "fileType" : 4096
+    },
+    "\/media\/img\/banner-bg-resources.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/media\/img\/banner-bg-resources.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/media\/img\/banner-bg-resources.png",
+      "initialSize" : 406449,
+      "fileType" : 8192
     },
     "\/_site\/media\/img\/banner-bg-home.png" : {
       "ignoreWasSetByUser" : 0,
@@ -3169,16 +3220,16 @@
       "initialSize" : 13211,
       "fileType" : 4096
     },
-    "\/_site\/media\/img\/customer-logo-keep.png" : {
+    "\/_site\/media\/img\/feature-image-hashtag.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/media\/img\/customer-logo-keep.png",
+      "inputAbbreviatedPath" : "\/_site\/media\/img\/feature-image-hashtag.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/media\/img\/customer-logo-keep.png",
-      "initialSize" : 2432,
-      "fileType" : 8192
+      "outputAbbreviatedPath" : "\/_site\/media\/img\/feature-image-hashtag.jpg",
+      "initialSize" : 64655,
+      "fileType" : 4096
     },
     "\/_site\/products\/tumblr\/index.html" : {
       "ignoreWasSetByUser" : 0,
@@ -3200,16 +3251,16 @@
       "initialSize" : 25943,
       "fileType" : 4096
     },
-    "\/_site\/media\/img\/feature-image-hashtag.jpg" : {
+    "\/_site\/media\/img\/customer-logo-keep.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/media\/img\/feature-image-hashtag.jpg",
+      "inputAbbreviatedPath" : "\/_site\/media\/img\/customer-logo-keep.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/media\/img\/feature-image-hashtag.jpg",
-      "initialSize" : 64655,
-      "fileType" : 4096
+      "outputAbbreviatedPath" : "\/_site\/media\/img\/customer-logo-keep.png",
+      "initialSize" : 2432,
+      "fileType" : 8192
     },
     "\/media\/stylesheets\/sass\/pages\/_our-customers.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -3234,6 +3285,17 @@
       "initialSize" : 625001,
       "fileType" : 8192
     },
+    "\/_site\/media\/img\/banner-bg-press.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/media\/img\/banner-bg-press.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/media\/img\/banner-bg-press.png",
+      "initialSize" : 408972,
+      "fileType" : 8192
+    },
     "\/media\/img\/icon-conversations.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3245,16 +3307,16 @@
       "initialSize" : 1023,
       "fileType" : 8192
     },
-    "\/_site\/media\/img\/banner-bg-press.png" : {
+    "\/media\/scripts\/site.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/media\/img\/banner-bg-press.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/media\/img\/banner-bg-press.png",
-      "initialSize" : 408972,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/media\/scripts\/site.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/media\/scripts\/site-ck.js",
+      "fileType" : 64
     },
     "\/_site\/media\/img\/team-photos\/marcin.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -3331,15 +3393,15 @@
       "initialSize" : 12791,
       "fileType" : 4096
     },
-    "\/media\/img\/icon-arrow-down.png" : {
+    "\/media\/img\/icon-arrow.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/media\/img\/icon-arrow-down.png",
+      "inputAbbreviatedPath" : "\/media\/img\/icon-arrow.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/media\/img\/icon-arrow-down.png",
-      "initialSize" : 1042,
+      "outputAbbreviatedPath" : "\/media\/img\/icon-arrow.png",
+      "initialSize" : 1067,
       "fileType" : 8192
     },
     "\/media\/img\/resources\/quantitative-study.jpg" : {
@@ -3353,6 +3415,17 @@
       "initialSize" : 12252,
       "fileType" : 4096
     },
+    "\/media\/img\/icon-arrow-down.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/media\/img\/icon-arrow-down.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/media\/img\/icon-arrow-down.png",
+      "initialSize" : 1042,
+      "fileType" : 8192
+    },
     "\/_site\/media\/img\/bg-major-results.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3362,17 +3435,6 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/_site\/media\/img\/bg-major-results.png",
       "initialSize" : 898163,
-      "fileType" : 8192
-    },
-    "\/media\/img\/icon-arrow.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/media\/img\/icon-arrow.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/media\/img\/icon-arrow.png",
-      "initialSize" : 1067,
       "fileType" : 8192
     },
     "\/media\/img\/feature-instagram-step-one-extra.jpg" : {
@@ -3492,6 +3554,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/instagram.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/instagram.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/media\/img\/customer-logo-etsy.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3502,15 +3573,6 @@
       "outputAbbreviatedPath" : "\/media\/img\/customer-logo-etsy.png",
       "initialSize" : 3557,
       "fileType" : 8192
-    },
-    "\/instagram.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/instagram.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/media\/img\/banner-bg-demo.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -3611,17 +3673,6 @@
       "initialSize" : 29887,
       "fileType" : 4096
     },
-    "\/media\/img\/feature-image-analytics.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/media\/img\/feature-image-analytics.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/media\/img\/feature-image-analytics.png",
-      "initialSize" : 79793,
-      "fileType" : 8192
-    },
     "\/media\/img\/team-photos\/joe.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3632,6 +3683,17 @@
       "outputAbbreviatedPath" : "\/media\/img\/team-photos\/joe.jpg",
       "initialSize" : 29336,
       "fileType" : 4096
+    },
+    "\/media\/img\/feature-image-analytics.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/media\/img\/feature-image-analytics.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/media\/img\/feature-image-analytics.png",
+      "initialSize" : 79793,
+      "fileType" : 8192
     },
     "\/_site\/media\/img\/feature-instagram-conversions.png" : {
       "ignoreWasSetByUser" : 0,
@@ -3688,17 +3750,6 @@
       "initialSize" : 4517,
       "fileType" : 8192
     },
-    "\/_site\/media\/img\/customer-logo-steve-madden-small.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/media\/img\/customer-logo-steve-madden-small.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/media\/img\/customer-logo-steve-madden-small.png",
-      "initialSize" : 4091,
-      "fileType" : 8192
-    },
     "\/media\/img\/press-logo-business-insider.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3709,6 +3760,17 @@
       "outputAbbreviatedPath" : "\/media\/img\/press-logo-business-insider.png",
       "initialSize" : 6213,
       "fileType" : 8192
+    },
+    "\/_site\/media\/img\/resources\/tumlbr-and-pinterest.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/media\/img\/resources\/tumlbr-and-pinterest.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/media\/img\/resources\/tumlbr-and-pinterest.jpg",
+      "initialSize" : 17743,
+      "fileType" : 4096
     },
     "\/_site\/media\/img\/banner-bg-resources.png" : {
       "ignoreWasSetByUser" : 0,
@@ -3732,16 +3794,16 @@
       "initialSize" : 1186,
       "fileType" : 8192
     },
-    "\/_site\/media\/img\/resources\/tumlbr-and-pinterest.jpg" : {
+    "\/_site\/media\/img\/customer-logo-steve-madden-small.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/media\/img\/resources\/tumlbr-and-pinterest.jpg",
+      "inputAbbreviatedPath" : "\/_site\/media\/img\/customer-logo-steve-madden-small.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/media\/img\/resources\/tumlbr-and-pinterest.jpg",
-      "initialSize" : 17743,
-      "fileType" : 4096
+      "outputAbbreviatedPath" : "\/_site\/media\/img\/customer-logo-steve-madden-small.png",
+      "initialSize" : 4091,
+      "fileType" : 8192
     },
     "\/media\/img\/feature-pinterest-step-two.jpg" : {
       "ignoreWasSetByUser" : 0,

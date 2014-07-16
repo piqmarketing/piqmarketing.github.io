@@ -7,9 +7,25 @@
 header {
 	@include contentContainer;
 	@include clear;
-
-    border-bottom: 1px solid $colorBorders;
+            border-bottom: 1px solid $colorBorders;
 	padding: 30px 0;
+            top: -105px;
+
+            &.sticky {
+                width: 100%;
+                max-width: 100%;
+                padding: 30px;
+                position: fixed;
+                left: 0;
+                right: 0;
+                top: 0;
+                z-index: 1000;
+                background: transparentize(#fff, 0.2);
+                -webkit-transition: top 0.3s ease;
+                -moz-transition: top 0.3s ease;
+                -o-transition: top 0.3s ease;
+                transition: top 0.3s ease;
+            }
 
 	a {
 		color: adjust-color($colorBodyAlt,$lightness: -30%,$saturation:90%,$alpha: -.4);

@@ -1,0 +1,1 @@
+$(function(){var e,t=$("header");$(window).on("scroll",function(){e=$(window).scrollTop();e>105?t.addClass("sticky"):t.hasClass("sticky")&&t.removeClass("sticky")})});
