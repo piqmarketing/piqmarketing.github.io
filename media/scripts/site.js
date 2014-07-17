@@ -6,6 +6,8 @@ $(function(){
     var $header = $('header');
     var $filterLink = $('.filter-nav a');
     var $resourcesList = $('.resources-list');
+    var $sliderLeft = $('.slider-left');
+    var $sliderRight = $('.slider-right');
 
     $(window).on('scroll', function(){
 
@@ -26,6 +28,8 @@ $(function(){
         }
 
     });
+
+    // Resource Page Filters
 
     $filterLink.on('click', function(e){
 
@@ -48,5 +52,79 @@ $(function(){
 
     });
 
+    // Customer Slider
+
+    var currentSlide = 0;
+    var sliderCount = $('.logos ul').length - 1;
+
+    $('.logos ul').eq(0).addClass('show');
+
+    $sliderLeft.on('click', function(e){
+
+        e.preventDefault();
+
+        $(".logos ul:eq("+currentSlide+")").fadeOut(1000, function(){
+
+        $(this).removeClass('show');
+
+        currentSlide -= 1;
+
+        if (currentSlide < 0) {
+
+            currentSlide = sliderCount;
+
+            $(".logos ul:eq("+currentSlide+")").fadeIn(1000, function(){
+
+                $(this).addClass('show');
+
+            });
+
+        } else {
+
+            $(".logos ul:eq("+currentSlide+")").fadeIn(1000, function(){
+
+                $(this).addClass('show');
+
+            });
+
+        }
+
+        });
+
+    });
+
+    $sliderRight.on('click', function(e){
+
+        e.preventDefault();
+
+        $(".logos ul:eq("+currentSlide+")").fadeOut(1000, function(){
+
+        $(this).removeClass('show');
+
+        currentSlide += 1;
+
+        if (currentSlide > sliderCount) {
+
+            currentSlide = 0;
+
+            $(".logos ul:eq("+currentSlide+")").fadeIn(1000, function(){
+
+                $(this).addClass('show');
+
+            });
+
+        } else {
+
+            $(".logos ul:eq("+currentSlide+")").fadeIn(1000, function(){
+
+                $(this).addClass('show');
+
+            });
+
+        }
+
+        });
+
+    });
 
 });
