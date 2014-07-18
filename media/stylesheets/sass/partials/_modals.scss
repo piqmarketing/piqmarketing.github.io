@@ -57,6 +57,15 @@
         @include mainCta;
         display: block;
         margin-bottom: 15px;
+
+        img {
+            border-radius: 100%;
+            -webkit-background-clip: padding-box;
+            -moz-background-clip: padding;
+            background-clip: padding-box;
+            float: right;
+            width: 20px;
+        }
     }
 }
 
