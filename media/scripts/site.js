@@ -127,4 +127,39 @@ $(function(){
 
     });
 
+    // Right Click Logo Modal
+
+    $('.logo a').on('contextmenu', function(e){
+
+        e.preventDefault();
+
+        $.ajax({
+                url: "/js-templates/logo-modal.html",
+                success: function( data ) {
+
+                    // Append Modal
+
+                    $('body').prepend( data );
+
+                    $('.overlay-door').delay(200).queue(function(next){
+                        $(this).addClass('open');
+                        next();
+                    });
+
+                    $('.overlay-close').on('click', function(e){
+
+                        e.preventDefault();
+
+                        $('.overlay-door').removeClass('open').addClass('close').delay(800).queue(function(next){
+                            $(this).remove();
+                            next();
+                        });
+
+                    });
+            }
+
+        });
+
+    });
+
 });
