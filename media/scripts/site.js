@@ -127,14 +127,12 @@ $(function(){
 
     });
 
-    // Right Click Logo Modal
+    // Modal Code
 
-    $('.logo a').on('contextmenu', function(e){
+    function modalInit(endpoint){
 
-        e.preventDefault();
-
-        $.ajax({
-                url: "/js-templates/logo-modal.html",
+             $.ajax({
+                url: endpoint,
                 success: function( data ) {
 
                     // Append Modal
@@ -159,6 +157,26 @@ $(function(){
             }
 
         });
+
+    }
+
+    // Right Click Logo Modal
+
+    $('.logo a').on('contextmenu', function(e){
+
+        e.preventDefault();
+
+        modalInit('/js-templates/logo-modal.html');
+
+    });
+
+    // Video Modal
+
+    $('.video-link').on('click', function(e){
+
+        e.preventDefault();
+
+        modalInit('/js-templates/video-modal.html');
 
     });
 
