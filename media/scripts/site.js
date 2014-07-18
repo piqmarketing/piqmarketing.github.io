@@ -8,6 +8,9 @@ $(function(){
     var $resourcesList = $('.resources-list');
     var $sliderLeft = $('.slider-left');
     var $sliderRight = $('.slider-right');
+    var $fullName = $('#firstLastName');
+    var $emailFields = $( 'input[type="email"]' );
+
 
     $(window).on('scroll', function(){
 
@@ -179,5 +182,59 @@ $(function(){
         modalInit('/js-templates/video-modal.html');
 
     });
+
+    // Split First & Last Name on Blur
+
+    $fullName.on( 'blur', function() {
+
+        var thisval = $( this ).val();
+
+        if ( thisval !== '' ) {
+
+            var firstName = thisval.slice( 0, thisval.indexOf( ' ' ) ),
+            lastName = thisval.slice( thisval.indexOf( ' ' ) + 1 );
+
+            $( 'input[type="hidden"]#firstName' ).val( firstName );
+            $( 'input[type="hidden"]#lastName' ).val( lastName );
+
+        }
+
+    } );
+
+      // Populate Company Field Based on Email
+
+            $emailFields.on( 'blur', function() {
+
+                if ( $( this ).parents( 'form' ).find( '#Company' ) ) {
+
+                    if ( $( this ).val() !== '' ) {
+
+                        var domainString = $( this ).val().split( '@' );
+                        var companyString = domainString[ 1 ].split( '.' );
+
+                        var company = companyString[ 0 ];
+
+                        var emailDomains = [
+                            "gmail",
+                            "hotmail",
+                            "outlook",
+                            "rocketmail",
+                            "live",
+                            "msn",
+                            "aol",
+                            "yahoo"
+                        ];
+
+                        if ( $.inArray( company, emailDomains ) < 0 ) {
+
+                            $( '#Company' ).val( company );
+
+                        }
+
+                    }
+
+                }
+
+            } );
 
 });
