@@ -20,11 +20,18 @@
             width: 100%;
         }
     }
+
+    @media screen and (min-width: 1580px) {
+        background-size: auto 115%;
+    }
     
-    @media screen and (max-width: 1025px) {
-        background-size: auto 90%;
+    @media screen and (max-width: 1470px) {
+        background-size: auto 100%;
     }
 
+    @media screen and (max-width: 1280px) {
+        background-size: auto 90%;
+    }
 
     @media screen and (max-width: 990px) {
         background-size: auto 75%;
@@ -92,6 +99,10 @@
     a {
         @include clear;
         @include secondaryCta;
+
+        strong {
+            margin-top: 5px;
+        }
 
         br {
             display: none;
@@ -322,7 +333,7 @@
 
 .major-results {
     @include outerContainer;
-    background: #759395 url(../img/bg-major-results.png);
+    background: #759395 url(../img/bg-major-results.jpg);
     background-size:cover;
     border-top: 1px solid rgba(0,0,0,.3);
 
