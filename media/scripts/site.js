@@ -8,6 +8,8 @@ $(function(){
     var $resourcesList = $('.resources-list');
     var $sliderLeft = $('.slider-left');
     var $sliderRight = $('.slider-right');
+    var $shotLeft = $('.slideshow-prev');
+    var $shotRight = $('.slideshow-next');
     var $fullName = $('#firstLastName');
     var $emailFields = $( 'input[type="email"]' );
 
@@ -119,6 +121,81 @@ $(function(){
         } else {
 
             $(".logos ul:eq("+currentSlide+")").fadeIn(1000, function(){
+
+                $(this).addClass('show');
+
+            });
+
+        }
+
+        });
+
+    });
+
+        // Customer Slider
+
+    var currentShot = 0;
+    var shotCount = $('.screenshots li').length - 1;
+
+    $('.screenshots li').eq(0).addClass('show');
+
+    $shotLeft.on('click', function(e){
+
+        e.preventDefault();
+
+        $(".screenshots li:eq("+currentShot+")").fadeOut(1000, function(){
+
+        $(this).removeClass('show');
+
+        currentShot -= 1;
+
+        if (currentShot < 0) {
+
+            currentShot = shotCount;
+
+            $(".screenshots li:eq("+currentShot+")").fadeIn(1000, function(){
+
+                $(this).addClass('show');
+
+            });
+
+        } else {
+
+            $(".screenshots li:eq("+currentShot+")").fadeIn(1000, function(){
+
+                $(this).addClass('show');
+
+            });
+
+        }
+
+        });
+
+    });
+
+    $shotRight.on('click', function(e){
+
+        e.preventDefault();
+
+        $(".screenshots li:eq("+currentShot+")").fadeOut(1000, function(){
+
+        $(this).removeClass('show');
+
+        currentShot += 1;
+
+        if (currentShot > shotCount) {
+
+            currentShot = 0;
+
+            $(".screenshots li:eq("+currentShot+")").fadeIn(1000, function(){
+
+                $(this).addClass('show');
+
+            });
+
+        } else {
+
+            $(".screenshots li:eq("+currentShot+")").fadeIn(1000, function(){
 
                 $(this).addClass('show');
 

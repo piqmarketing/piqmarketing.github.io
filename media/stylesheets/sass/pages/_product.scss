@@ -271,6 +271,11 @@
         background: url(../img/banner-bg-pinterest.jpg) no-repeat right bottom; 
         background-size: auto 100%;
 
+        @media screen and (min-width: 1170px) {
+            background: url(../img/banner-bg-pinterest.jpg) no-repeat right top; 
+            background-size: auto 120%;
+        }
+
         @media screen and (max-width: 785px) {
             background: url(../img/banner-bg-pinterest.jpg) no-repeat 85% top; 
             background-size: auto 110%;
@@ -308,6 +313,10 @@
     &.instagram-banner {
         background: #f8f6f5 url(../img/banner-bg-instagram.png) no-repeat bottom right;
         background-size: auto 75%;
+
+         @media screen and (min-width: 1400px) {
+             background-size: auto 80%;
+         }
 
         @media screen and (max-width: 1025px) {
             background-size: auto 60%;
@@ -367,20 +376,49 @@
     }
 
     &.tumblr-banner {
-        background: url(../img/banner-bg-tumblr.jpg) no-repeat bottom right;
+        background: url(../img/banner-bg-tumblr.jpg) no-repeat 50% bottom;
         background-size: auto 100%;     
         
+        @media screen and (min-width:1225px) {
+            background-size: cover;    
+        }
+
+        .featured-navigation a {
+            color: #FFF;
+            text-shadow: 0 1px 1px rgba(0,0,0,.1);
+        }
+
         .container {
             padding-bottom: 50px;
         }
 
         .banner-description {
             width: 65.65656566%; /* 650/990 */
+
+            @media screen and (max-width:895px) {
+                width: 80%;
+            }
+
+             @media screen and (max-width:800px) {
+                width: 90%;
+            }
+
+            @media screen and (max-width:750px) {
+                width: 100%;
+            }
         }  
 
         .demo-cta {
             margin: 50px 0 0 0;
             width: 52.30769231%; /* 340/650 */
+
+            @media screen and (max-width:685px) {
+                width: 60%;
+            }
+
+            @media screen and (max-width:580px) {
+                width: 100%;
+            }
         } 
 
         .content-frame {
@@ -501,4 +539,60 @@
         margin-top: 20px;
     }
 
+}
+
+.product-screenshots {
+    @include outerContainer;
+    box-shadow: none;
+
+    h3 {
+        float: left;
+    }
+
+    .container {
+        padding-bottom: 0;
+    }
+
+    .screenshots-icon {
+        float: right;
+
+        li {
+            display: inline-block;
+            height: 50px;
+            width: 50px;
+
+            a {
+                display: block;
+            }
+        }
+
+        img {
+            @include iconContainer(10px,#f26b63);
+        }
+    }
+
+    .screenshots {
+        clear: both;
+        display: block;
+
+        li {
+            display: none;
+    
+            &.show {
+                display: block;
+            }
+        }
+
+        img {
+            -webkit-background-clip: padding-box; 
+            -moz-background-clip: padding; 
+            background-clip: padding-box;
+            border: 1px solid rgba(0,0,0,.1);
+            border-bottom: none;
+            border-top-left-radius: 5px;
+            border-top-right-radius: 5px;
+            box-shadow: 0 1px 5px rgba(0,0,0,.1);
+            margin-top: 30px;
+        }
+    }
 }
