@@ -376,7 +376,7 @@
     }
 
     &.tumblr-banner {
-        background: url(../img/banner-bg-tumblr.jpg) no-repeat 50% bottom;
+        background: url(../img/banner-bg-tumblr.jpg) no-repeat 50% top;
         background-size: auto 100%;     
         
         @media screen and (min-width:1225px) {
@@ -394,6 +394,10 @@
 
         .banner-description {
             width: 65.65656566%; /* 650/990 */
+
+            p {
+                color: rgba(0,0,0,0.5);
+            }
 
             @media screen and (max-width:895px) {
                 width: 80%;
@@ -551,6 +555,7 @@
 
     .container {
         padding-bottom: 0;
+        max-width: 998px;
     }
 
     .screenshots-icon {
@@ -584,6 +589,7 @@
         }
 
         img {
+            width: 100%;
             -webkit-background-clip: padding-box; 
             -moz-background-clip: padding; 
             background-clip: padding-box;
